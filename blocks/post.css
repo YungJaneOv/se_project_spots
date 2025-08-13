@@ -1,0 +1,13 @@
+.post {
+  margin: 0 auto;
+  position: relative;
+}
+
+.post__image {
+  width: 413px;
+  height: 413px;
+  object-fit: cover;
+  display: block;
+  margin: 0 auto 12px;
+  border-radius: 8px;
+}
