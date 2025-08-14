@@ -1,17 +1,20 @@
 .footer {
-  width: 1428px;
-  height: 136px;
+  width: 100%;
   display: flex;
   justify-content: center;
   padding: 60px 0;
+  font-size: 20px;
+  border-top: 1px;
 }
 
 .footer__copyright {
-  margin: 0 auto;
+  margin: 0 660px;
   max-width: 105px;
   opacity: 0.7;
   font-size: 16px;
   font-weight: 400;
   color: #212121;
   line-height: 1;
+  display: flex;
+  align-items: center;
 }

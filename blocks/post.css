@@ -8,6 +8,22 @@
   height: 413px;
   object-fit: cover;
   display: block;
-  margin: 0 auto 12px;
+  margin: 0 0 20px;
   border-radius: 8px;
+}
+
+.post__delete-btn {
+  width: 32px;
+  height: 32px;
+  padding: 0;
+  position: absolute;
+  top: 10px;
+  right: 10px;
+  background: transparent url(../images/delete.svg);
+  border: none;
+  cursor: pointer;
+}
+
+.post__delete-btn:hover {
+  background: transparent url(../images/delete-hover.svg);
 }
