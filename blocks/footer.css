@@ -3,8 +3,6 @@
   display: flex;
   justify-content: center;
   padding: 60px 0;
-  font-size: 20px;
-  border-top: 1px;
 }
 
 .footer__copyright {

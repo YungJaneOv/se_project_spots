@@ -12,18 +12,120 @@
   border-radius: 8px;
 }
 
-.post__delete-btn {
-  width: 32px;
-  height: 32px;
-  padding: 0;
-  position: absolute;
-  top: 10px;
-  right: 10px;
-  background: transparent url(../images/delete.svg);
+.post__title {
+  max-width: 400px;
+  margin: 0;
+  font-size: 20px;
+  font-weight: 500;
+  color: #212121;
+  line-height: 1.2;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  overflow: hidden;
+}
+
+.post__content {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.post__like-btn {
+  background-image: url(../images/Union.svg);
+  width: 23px;
+  height: 20px;
   border: none;
+  background-color: transparent;
+  opacity: 40%;
   cursor: pointer;
 }
 
-.post__delete-btn:hover {
-  background: transparent url(../images/delete-hover.svg);
+.post__like-btn:hover {
+  opacity: 1;
+}
+
+@media screen and (max-width: 1200px) {
+  .post__image {
+    width: 413px;
+    height: 413px;
+    object-fit: cover;
+    display: block;
+    margin: 0 0 20px;
+    border-radius: 8px;
+  }
+
+  .post__title {
+    max-width: 400px;
+    margin: 0;
+    font-size: 20px;
+    font-weight: 500;
+    color: #212121;
+    line-height: 1.2;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    overflow: hidden;
+  }
+
+  .post__content {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  }
+
+  .post__like-btn {
+    background-image: url(../images/Union.svg);
+    width: 23px;
+    height: 20px;
+    border: none;
+    background-color: transparent;
+    opacity: 40%;
+    cursor: pointer;
+  }
+
+  .post__like-btn:hover {
+    opacity: 1;
+  }
+}
+
+@media screen and (max-width: 630px) {
+  .post__image {
+    width: 413px;
+    height: 413px;
+    object-fit: cover;
+    display: block;
+    margin: 0 0 20px;
+    border-radius: 8px;
+  }
+
+  .post__title {
+    max-width: 400px;
+    margin: 0;
+    font-size: 20px;
+    font-weight: 500;
+    color: #212121;
+    line-height: 1.2;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    overflow: hidden;
+  }
+
+  .post__content {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  }
+
+  .post__like-btn {
+    background-image: url(../images/Union.svg);
+    width: 23px;
+    height: 20px;
+    border: none;
+    background-color: transparent;
+    opacity: 40%;
+    cursor: pointer;
+  }
+
+  .post__like-btn:hover {
+    opacity: 1;
+  }
 }

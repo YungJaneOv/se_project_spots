@@ -1,6 +1,4 @@
-# Project 3: Spots
-
-Image Sharing Site
+# Spots Images Sharing
 
 ### Overview
 
