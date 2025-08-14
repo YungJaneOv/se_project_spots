@@ -63,7 +63,7 @@
 }
 
 .posts__like-button_state_liked:hover {
-  opacity: 0.5;
+  opacity: 1;
 }
 
 @media screen and (max-width: 1200px) {
@@ -83,23 +83,28 @@
     padding: 0;
     list-style: none;
   }
-}
+  .posts__like-btn {
+    background-image: url(../images/Union.svg);
+    border: none;
+    background-color: transparent;
+  }
 
-@media screen and (max-width: 630px) {
-  .posts__image {
-    height: 288px;
-  }
-  .posts__list {
-    grid-template-columns: repeat(auto-fit, 288px);
-  }
-  .posts__grid {
-    display: grid;
-    justify-content: center;
-    grid-template-columns: repeat(1, 413px);
-    grid-auto-rows: 413px;
-    gap: 40px 20px;
-    margin: 0;
-    padding: 0;
-    list-style: none;
+  @media screen and (max-width: 630px) {
+    .posts__image {
+      height: 288px;
+    }
+    .posts__list {
+      grid-template-columns: repeat(auto-fit, 288px);
+    }
+    .posts__grid {
+      display: grid;
+      justify-content: center;
+      grid-template-columns: repeat(1, 413px);
+      grid-auto-rows: 413px;
+      gap: 40px 20px;
+      margin: 0;
+      padding: 0;
+      list-style: none;
+    }
   }
 }
