@@ -14,6 +14,8 @@
 
 - ![New Post](<<img width="157" height="52" alt="Image" src="https://github.com/user-attachments/assets/f7b703a0-efd5-4711-a75f-d73630e44c7f" />)
 - ![Edit Profile](<<img width="108" height="16" alt="Image" src="https://github.com/user-attachments/assets/3f0558c0-e479-4142-a2c3-855959d2d39e"/>)
+- ![Spots Logo](<<img width="95" height="26" alt="Image" src="https://github.com/user-attachments/assets/08ab52e5-1a10-42f8-9dfd-8df6a159bde8" />)
+- ![Like Icon](<<img width="23" height="20" alt="Image" src="https://github.com/user-attachments/assets/9f019bc2-8fd7-40b4-b164-0a1538f79761" />)
 
 ## Technologies Used
 
