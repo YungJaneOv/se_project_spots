@@ -12,8 +12,8 @@
 
 ## Images
 
-- [![New Post](relative/path/to/State=Default-min.png)](https://yungjaneov.github.io/se_project_spots)
-- [![Edit Profile](<relative/path/to/State=Default-min(1).png>)](https://yungjaneov.github.io/se_project_spots)
+- ![New Post](./images/State=Default-min.png)
+- ![Edit Profile](<./images/State=Default-min(1).png>)
 
 ## Technologies Used
 
