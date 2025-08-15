@@ -12,7 +12,7 @@
 
 ## Images
 
-- (/Users/Gamin/Downloads/State=Default-min.png)
+- ![New Post](relative/path/to/State=Default-min.png)
 
 ## Technologies Used
 
