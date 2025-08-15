@@ -12,7 +12,7 @@
 
 ## Images
 
--      [here] (C:/Users/Gamin/Downloads/State=Default-min.png)
+- (/Users/Gamin/Downloads/State=Default-min.png)
 
 ## Technologies Used
 
