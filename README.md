@@ -12,8 +12,8 @@
 
 ## Images
 
-- ![New Post](./images/State=Default-min.png)
-- ![Edit Profile](<<img width="108" height="16" alt="Image" src="https://github.com/user-attachments/assets/3f0558c0-e479-4142-a2c3-855959d2d39e" />)
+- ![New Post](<<img width="157" height="52" alt="Image" src="https://github.com/user-attachments/assets/f7b703a0-efd5-4711-a75f-d73630e44c7f" />)
+- ![Edit Profile](<<img width="108" height="16" alt="Image" src="https://github.com/user-attachments/assets/3f0558c0-e479-4142-a2c3-855959d2d39e"/>)
 
 ## Technologies Used
 
