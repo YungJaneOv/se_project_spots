@@ -16,6 +16,7 @@
 - ![Edit Profile](<<img width="108" height="16" alt="Image" src="https://github.com/user-attachments/assets/3f0558c0-e479-4142-a2c3-855959d2d39e"/>)
 - ![Spots Logo](<<img width="95" height="26" alt="Image" src="https://github.com/user-attachments/assets/08ab52e5-1a10-42f8-9dfd-8df6a159bde8" />)
 - ![Like Icon](<<img width="23" height="20" alt="Image" src="https://github.com/user-attachments/assets/9f019bc2-8fd7-40b4-b164-0a1538f79761" />)
+  ![Avatar](<<img width="190" height="190" alt="Image" src="https://github.com/user-attachments/assets/0b1246fa-bfce-4dd6-b4fd-4be80d2f3795" />)
 - ![Val Thorens](<<img width="413" height="413" alt="Image" src="https://github.com/user-attachments/assets/3ee4fb71-9a36-412c-90bb-8343df2fe12c" />)
 - ![Restaurant terrace](<<img width="413" height="413" alt="Image" src="https://github.com/user-attachments/assets/1cbf59fe-0f6e-4925-8278-cffe1ec77d05" />)
 - ![An outdoor cafe](<<img width="413" height="413" alt="Image" src="https://github.com/user-attachments/assets/b950e174-d84d-4e79-8a54-b7df4ae44db0" />)
