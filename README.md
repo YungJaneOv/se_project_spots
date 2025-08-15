@@ -16,6 +16,7 @@
 - ![Edit Profile](<<img width="108" height="16" alt="Image" src="https://github.com/user-attachments/assets/3f0558c0-e479-4142-a2c3-855959d2d39e"/>)
 - ![Spots Logo](<<img width="95" height="26" alt="Image" src="https://github.com/user-attachments/assets/08ab52e5-1a10-42f8-9dfd-8df6a159bde8" />)
 - ![Like Icon](<<img width="23" height="20" alt="Image" src="https://github.com/user-attachments/assets/9f019bc2-8fd7-40b4-b164-0a1538f79761" />)
+- ![Webpage](<<img width="1293" height="938" alt="Image" src="https://github.com/user-attachments/assets/ccf54dca-7225-4b5a-9213-5780e25d5332" />)
 - ![Val Thorens](<<img width="413" height="413" alt="Image" src="https://github.com/user-attachments/assets/3ee4fb71-9a36-412c-90bb-8343df2fe12c" />)
 - ![Mountain house](<<img width="413" height="413" alt="Image" src="https://github.com/user-attachments/assets/cc9a4d28-13e7-4629-aef3-026139ab3770" />)
 
