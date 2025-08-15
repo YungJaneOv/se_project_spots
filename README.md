@@ -1,32 +1,47 @@
-# Spots Images Sharing
+# Spots Image Sharing Application Project
 
-### Overview
+## Project Description
 
-- Intro
-- Figma
-- Images
+- Spots is a responsive web project built as a reflection of my own learning skills in what is known as Adaptive Web Design & Working with Layouts. The project showcases HTML usage, proper heading hierarchy in the development of a web page, & adaptive layouts using both Flexbox & CSS Grid in their each corresponsive manner to build the functionality of a image sharing site.
 
-**Intro**
+**The main features include:**
 
-- This project is made so all the elements are displayed correctly on popular screen sizes. We recommend investing more time in completing this project, since it's more difficult than previous ones.
-- Image sharing site
+- A fully responsive design that adjusts for different screen sizes (including 320px mobile view).
+- Semantic HTML tags for improved accessibility and SEO throughout the website.
+- Image alt attributes for screen reader compatibility on all platforms.
 
-**Tech Stack**
+## Images
 
-- HTML
-- CSS
-- Responsive Design
+-      [here] (C:/Users/Gamin/Downloads/State=Default-min.png)
 
-**Figma**
+## Technologies Used
 
-- [Link to the project on Figma](https://www.figma.com/file/BBNm2bC3lj8QQMHlnqRsga/Sprint-3-Project-%E2%80%94-Spots?type=design&node-id=2%3A60&mode=design&t=afgNFybdorZO6cQo-1)
+- **HTML5** – semantic structure and accessible markup.
+- **CSS3** – layout and styling with Flexbox, CSS Grid, and media queries.
+- **Normalize.css** – for consistent cross-browser styling.
 
-**Images**
+## Functionality
 
-The way you'll do this at work is by exporting images directly from Figma — we recommend doing that to practice more. Don't forget to optimize them [here](https://tinypng.com/), so your project loads faster.
+- Responsive sections that adapt to screen width including images, text, etc.
+- Grid and Flex layouts for content arrangement.
+- Mobile-friendly navigation and text sizing.
 
-Good luck and have fun!
+## Plans for Improvement
+
+- Further optimize for performance (minify CSS, compress images).
+- Add more interactive elements with JavaScript.
+- Improve accessibility (ARIA roles, keyboard navigation).
+- Add animations and transitions for smoother UI experience.
+
+---
+
+**Author:** Jane Overfield
+**Date:** August 14th 2025
 
 **Project Server**
 
 [https://yungjaneov.github.io/se_project_spots]
+
+### Figma
+
+- [Link to the project on Figma](https://www.figma.com/file/BBNm2bC3lj8QQMHlnqRsga/Sprint-3-Project-%E2%80%94-Spots?type=design&node-id=2%3A60&mode=design&t=afgNFybdorZO6cQo-1)
