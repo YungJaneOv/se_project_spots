@@ -20,9 +20,9 @@
 
 - ![Like Icon](<<img width="23" height="20" alt="Image" src="https://github.com/user-attachments/assets/9f019bc2-8fd7-40b4-b164-0a1538f79761" />)
 
-![Desktop View](<<img width="2543" height="937" alt="Image" src="https://github.com/user-attachments/assets/ed44eb89-d0c9-4ea4-bdda-d1be3b003ed1" />)
+![Desktop View](<< />)
 
-![Mobile View](<<img width="472" height="940" alt="Image" src="https://github.com/user-attachments/assets/e01a0326-570b-4d0c-a133-6d1d8ab0949a" />)
+![Mobile View](<< />)
 
 ![Avatar](<<img width="190" height="190" alt="Image" src="https://github.com/user-attachments/assets/0b1246fa-bfce-4dd6-b4fd-4be80d2f3795" />)
 
@@ -62,8 +62,8 @@
 - []
 
   **Author:** Jane Overfield
-  **Date:** August 14th 2025
+  **Date:** August 27th 2025
 
   **Project Server**
 
-[https://yungjaneov.github.io/se_project_spots]
+[]
