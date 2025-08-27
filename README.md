@@ -20,7 +20,11 @@
 
 - ![Like Icon](<<img width="23" height="20" alt="Image" src="https://github.com/user-attachments/assets/9f019bc2-8fd7-40b4-b164-0a1538f79761" />)
 
-  ![Avatar](<<img width="190" height="190" alt="Image" src="https://github.com/user-attachments/assets/0b1246fa-bfce-4dd6-b4fd-4be80d2f3795" />)
+![Desktop View](<<img width="2543" height="937" alt="Image" src="https://github.com/user-attachments/assets/ed44eb89-d0c9-4ea4-bdda-d1be3b003ed1" />)
+
+![Mobile View](<<img width="472" height="940" alt="Image" src="https://github.com/user-attachments/assets/e01a0326-570b-4d0c-a133-6d1d8ab0949a" />)
+
+![Avatar](<<img width="190" height="190" alt="Image" src="https://github.com/user-attachments/assets/0b1246fa-bfce-4dd6-b4fd-4be80d2f3795" />)
 
 - ![Val Thorens](<<img width="413" height="413" alt="Image" src="https://github.com/user-attachments/assets/3ee4fb71-9a36-412c-90bb-8343df2fe12c" />)
 
