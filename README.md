@@ -55,7 +55,7 @@
 
 ### Link to Project Video
 
-- [https://youtu.be/AyauWbkCdBM]
+- []
 
   **Author:** Jane Overfield
   **Date:** August 14th 2025

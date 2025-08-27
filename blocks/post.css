@@ -8,12 +8,12 @@
   height: 413px;
   object-fit: cover;
   display: block;
-  margin: 0 0 20px;
+  margin: 0 auto 12px;
   border-radius: 8px;
 }
 
 .post__title {
-  max-width: 400px;
+  max-width: 353px;
   margin: 0;
   font-size: 20px;
   font-weight: 500;
@@ -34,6 +34,7 @@
   background-image: url(../images/Union.svg);
   width: 23px;
   height: 20px;
+  padding: 0;
   border: none;
   background-color: transparent;
   opacity: 40%;
@@ -44,88 +45,14 @@
   opacity: 1;
 }
 
-@media screen and (max-width: 1200px) {
+@media screen and (max-width: 627px) {
   .post__image {
-    width: 413px;
-    height: 413px;
-    object-fit: cover;
-    display: block;
-    margin: 0 0 20px;
-    border-radius: 8px;
+    height: 288px;
+    width: 288px;
   }
 
   .post__title {
-    max-width: 400px;
-    margin: 0;
-    font-size: 20px;
-    font-weight: 500;
-    color: #212121;
-    line-height: 1.2;
-    text-overflow: ellipsis;
-    white-space: nowrap;
-    overflow: hidden;
-  }
-
-  .post__content {
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
-  }
-
-  .post__like-btn {
-    background-image: url(../images/Union.svg);
-    width: 23px;
-    height: 20px;
-    border: none;
-    background-color: transparent;
-    opacity: 40%;
-    cursor: pointer;
-  }
-
-  .post__like-btn:hover {
-    opacity: 1;
-  }
-}
-
-@media screen and (max-width: 630px) {
-  .post__image {
-    width: 413px;
-    height: 413px;
-    object-fit: cover;
-    display: block;
-    margin: 0 0 20px;
-    border-radius: 8px;
-  }
-
-  .post__title {
-    max-width: 400px;
-    margin: 0;
-    font-size: 20px;
-    font-weight: 500;
-    color: #212121;
-    line-height: 1.2;
-    text-overflow: ellipsis;
-    white-space: nowrap;
-    overflow: hidden;
-  }
-
-  .post__content {
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
-  }
-
-  .post__like-btn {
-    background-image: url(../images/Union.svg);
-    width: 23px;
-    height: 20px;
-    border: none;
-    background-color: transparent;
-    opacity: 40%;
-    cursor: pointer;
-  }
-
-  .post__like-btn:hover {
-    opacity: 1;
+    max-width: 242px;
+    font-size: 16px;
   }
 }
