@@ -20,9 +20,9 @@
 
 - ![Like Icon](<<img width="23" height="20" alt="Image" src="https://github.com/user-attachments/assets/9f019bc2-8fd7-40b4-b164-0a1538f79761" />)
 
-![Desktop View](<< />)
+![Desktop View](<<img width="2543" height="935" alt="Image" src="https://github.com/user-attachments/assets/99815a36-15ac-425c-915e-f188da67b5ba" />)
 
-![Mobile View](<< />)
+![Mobile View](<<img width="475" height="941" alt="Image" src="https://github.com/user-attachments/assets/067c7605-b6d0-4a14-b4f1-5520e6f8b8a4" />)
 
 ![Avatar](<<img width="190" height="190" alt="Image" src="https://github.com/user-attachments/assets/0b1246fa-bfce-4dd6-b4fd-4be80d2f3795" />)
 
@@ -59,11 +59,11 @@
 
 ### Link to Project Video
 
-- []
+- [https://youtu.be/Y1ng7SACaTI]
 
   **Author:** Jane Overfield
   **Date:** August 27th 2025
 
   **Project Server**
 
-[]
+[https://yungjaneov.github.io/se_project_spots/]
