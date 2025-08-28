@@ -27,5 +27,6 @@
 
   .posts__grid {
     grid-template-columns: repeat(1, 288px);
+    row-gap: 20px;
   }
 }
