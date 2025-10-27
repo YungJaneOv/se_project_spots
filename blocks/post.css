@@ -45,7 +45,7 @@
   opacity: 1;
 }
 
-@media screen and (max-width: 627px) {
+@media screen and (max-width: 630px) {
   .post__image {
     height: 288px;
     width: 288px;
