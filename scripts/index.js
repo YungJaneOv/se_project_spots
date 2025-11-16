@@ -11,10 +11,18 @@ const profileNameEl = document.querySelector(".profile__name");
 const profileDescriptionEl = document.querySelector(".profile__description");
 
 editProfileBtn.addEventListener("click", () => {
-  editProfileModal.classList.add("modal_is-opened");
+  profileNameInput.value = profileNameEl.textContent;
+  profileDescriptionInput.value = profileDescriptionEl.textContent;
+  openModal(editProfileModal);
+  function openModal(modal) {
+    modal.classList.add("modal_is-opened");
+  }
 });
 editProfileCloseBtn.addEventListener("click", () => {
-  editProfileModal.classList.remove("modal_is-opened");
+  closeModal(editProfileModal);
+  function closeModal(modal) {
+    modal.classList.remove("modal_is-opened");
+  }
 });
 
 function handleEditProfileSubmit(evt) {
