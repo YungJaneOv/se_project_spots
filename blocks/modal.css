@@ -47,7 +47,6 @@
 .modal__form {
   display: flex;
   flex-direction: column;
-  gap: 32px;
   max-width: 630px;
   height: 100%;
   width: 100%;
@@ -93,6 +92,12 @@
   color: #2121214d;
   opacity: 30%;
 }
+
+.modal__input:hover {
+  opacity: 1;
+  cursor: pointer;
+}
+
 .modal__close-btn {
   position: absolute;
   top: 32px;
@@ -100,7 +105,8 @@
   width: 40px;
   height: 40px;
   opacity: 0.4;
-  background-image: url("../images/close.svg");
+  border: none;
+  background-image: url("../images/Property\ 1=Default.svg");
   background-repeat: no-repeat;
   background-position: center;
   background-size: contain;
@@ -111,14 +117,20 @@
   max-width: 156px;
   height: 52px;
   opacity: 1;
+  border: none;
   border-radius: 8px;
   padding-top: 18px;
   padding-right: 32px;
   padding-bottom: 18px;
   padding-left: 32px;
   gap: 8px;
-  background-color: #000;
+  background-color: #212121;
   color: #fff;
+  cursor: pointer;
+}
+
+.modal__submit-btn:hover {
+  opacity: 1;
   cursor: pointer;
 }
 
@@ -129,22 +141,19 @@
 
 @media screen and (max-width: 730px) {
   .modal__container {
-    width: 300px;
     opacity: 1;
     padding: 12px;
-    bottom: 50px;
   }
   .modal__title {
-    max-height: 20px;
     margin: 10px 0 34px;
     font-size: 20px;
     justify-content: space-between;
     padding: 0;
-    width: 106px;
+    max-width: 106px;
   }
   .modal__form {
-    height: 248px;
-    width: 276px;
+    min-height: 248px;
+    width: 100%;
     /* gap: 24px; */
     /* border-radius: 8px;
     border-width: 1px; */
