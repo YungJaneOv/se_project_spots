@@ -107,6 +107,7 @@
   opacity: 0.4;
   border: none;
   background-image: url("../images/Property\ 1=Default.svg");
+  background-color: transparent;
   background-repeat: no-repeat;
   background-position: center;
   background-size: contain;
@@ -164,7 +165,6 @@
   }
   .modal__label {
     min-height: 74px;
-    max-width: 274px;
     margin: 1px;
   }
   .modal__close-btn {
@@ -172,9 +172,9 @@
     right: 12px;
   }
   .modal__submit-btn {
-    max-width: none;
+    width: 100%;
     padding: 0;
-    width: 276px;
+    max-width: none;
     height: 52px;
     /* border-radius: 8px;
     padding-top: 18px;
